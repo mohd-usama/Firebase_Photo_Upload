@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545825291242",
+    "project_id": "fir-uploadphoto-68a40",
+    "storage_bucket": "fir-uploadphoto-68a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545825291242:android:083f7ae5ca726449139093",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuploadphoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545825291242-robg97rbj8b2fdnntdcl3ttddufibkf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzY_Qz-co3WbK4dzLnpd_qxbW3YULHL0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545825291242-robg97rbj8b2fdnntdcl3ttddufibkf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
